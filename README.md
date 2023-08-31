@@ -9,6 +9,7 @@
 
 - 📫 How to reach me:
   - :email: **kwiniarczyk99@gmail.com**
+  - <img align="center" src="https://icons8.com/icon/euqTIjTRV8Qs/google-hangouts-chat" alt="Email" height="30" width="40"/> kwiniarczyk99@gmail.com
   - <a href="https://linkedin.com/in/kacper-winiarczyk-3547a0231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kacper-winiarczyk-3547a0231" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
