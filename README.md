@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [FutsalStatTrack](https://github.com/Put3k/FutsalStatTrack)
 
-- 🌱 I’m currently learning **Django, FastAPI, Relational Databases**
+- 🌱 I’m currently learning **Django, DjangoRestFramework**
 
 - 📫 Reach me at:
   - Email **kwiniarczyk99@gmail.com**
