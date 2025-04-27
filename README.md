@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">Self-taught developer from Poland</h3>
 
-- Im focused on backend development.
-
-- 🔭 I’m currently working on [FutsalStatTrack](https://github.com/Put3k/FutsalStatTrack)
-
-- 🌱 I’m currently learning **Django, DjangoRestFramework**
-
 - 📫 Reach me at:
   - Email **kwiniarczyk99@gmail.com**
   - LinkedIn **[Kacper Winiarczyk](https://www.linkedin.com/in/kacper-winiarczyk-3547a0231/)**
